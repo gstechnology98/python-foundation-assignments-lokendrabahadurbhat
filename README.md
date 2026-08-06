@@ -10,4 +10,3 @@
 
 This repository contains my assignments and practice exercises from the Python Foundation training.
 
-## Assignment Progress

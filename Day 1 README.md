@@ -31,7 +31,8 @@ python exercise-05-pipeline-health.py
 python stretch-access-decision.py
 ```
 
-## Exercises
+
+
 
 ## What I Learned
 I learned how to
@@ -41,7 +42,7 @@ I learned how to
 - I also practiced building robust conditional workflows to handle business rules, classify datasets, and evaluate pipeline health metrics.
 
 
-## Exercises
+
 
 ## Challenges Faced
 One challenge was properly handling edge cases in pipeline health tracking, specifically when a pipeline had a low failure rate but an unusually high runtime. I solved this by extending the conditional checks to catch high runtimes and flag them appropriately as a warning.

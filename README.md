@@ -17,6 +17,5 @@ This repository contains my assignments and practice exercises from the Python F
 - [ ] Day 3: Loops
 
 
-metrics.
 ##Challenges Faced
 - Handling edge cases in pipeline health monitoring (where failure rates were low but runtimes exceeded limits) required careful consideration of how conditional statements cascade. I resolved this by explicitly checking performance constraints alongside percentage thresholds.

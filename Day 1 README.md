@@ -8,6 +8,7 @@
 - Conditional Statements (if-elif-else)
 - Ternary Operators
 
+
 ## Exercises
 
 1. Sales Summary (`exercise-01-sales-summary.py`)
@@ -27,8 +28,8 @@ python exercise-02-data-quality-checker.py
 python exercise-03-file-validator.py
 python exercise-04-customer-cleaner.py
 python exercise-05-pipeline-health.py
-python stretch-access-decision.py'''
-
+python stretch-access-decision.py
+```
 ##What I Learned
 I learned how to
 - Initialize Variables in Python

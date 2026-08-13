@@ -1,4 +1,4 @@
-```
+
 # day-02-loops-and-data-structures/
 ├── README.md
 ├── exercise-01-batch-processor.py

@@ -1,8 +1,7 @@
 
 # day-02-loops-and-data-structures/
-├── README.md
-├── exercise-01-batch-processor.py
-├── exercise-02-retry-simulation.py
+1. exercise-01-batch-processor.py
+2. exercise-02-retry-simulation.py
 ├── exercise-03-clean-values.py
 ├── exercise-04-sales-analysis.py
 ├── exercise-05-dataset-comparison.py

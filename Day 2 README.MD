@@ -1,5 +1,5 @@
 
-# day-02-loops-and-data-structures/
+# day-02-loops-and-data-structures
 1. exercise-01-batch-processor.py
 2. exercise-02-retry-simulation.py
 3. exercise-03-clean-values.py
@@ -9,8 +9,6 @@
 7. exercise-07-order-summary.py
 8. stretch-contact-book.py
 9. The daily README should contain:
-
-# Day 2: Loops and Data Structures
 
 ## Topics Covered
 - Control flow using `for` and `while` loops, `break`, `continue`, and `range()`.
